@@ -121,7 +121,7 @@ var table_fmt = {
 	11: '0.00E+00',
 	12: '# ?/?',
 	13: '# ??/??',
-	14: 'yyyy/mm/dd',
+	14: 'dd/m/yyyy',
 	15: 'd-mmm-yy',
 	16: 'd-mmm',
 	17: 'mmm-yy',
